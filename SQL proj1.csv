@@ -1,0 +1,2 @@
+"employee_id","last_name","first_name","title","reports_to","levels","birthdate","hire_date","address","city","state","country","postal_code","phone","fax","email"
+"9","Madan                                             ","Mohan                                             ","Senior General Manager",NULL,"L7","1961-01-26 00:00:00","2016-01-14 00:00:00","1008 Vrinda Ave MT","Edmonton","AB","Canada","T5K 2N1","+1 (780) 428-9482","+1 (780) 428-3457","madan.mohan@chinookcorp.com"

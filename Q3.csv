@@ -1,0 +1,4 @@
+"invoice_id","customer_id","invoice_date","billing_address","billing_city","billing_state","billing_country","billing_postal","total"
+183,42,"2018-02-09 00:00:00","9, Place Louis Barthou","Bordeaux","None","France","33000","23.759999999999998"
+92,32,"2017-07-02 00:00:00","696 Osborne Street","Winnipeg","MB","Canada","R3L 2B9","19.8"
+31,3,"2017-02-21 00:00:00","1498 rue Bélanger","Montréal","QC","Canada","H2G 1A7","19.8"
